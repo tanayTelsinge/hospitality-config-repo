@@ -80,3 +80,5 @@ app:
   password-history-count: 5
   otp-expiry-minutes: 10
   invite-expiry-hours: 48
+  email:
+    mock: true
